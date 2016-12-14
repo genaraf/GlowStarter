@@ -3,13 +3,12 @@
  *
  * Author: Gennady Rafalovich
  * Date: 13/12/2016
- * red led on - power ok
  *
- * red led blinking - low power
- * blue len on - out power in range
- * blue led blinking - glow connected
- * buzzer on continuesly - low power
- * buzzer on/off - timeout 30sec when glow connected, 5.5min when disconnected
+ * Blue LED on - the output voltage in the range
+ * Blue LED blinks - glow plug connected
+ * Buzzer continuous tone and the red LED blinks - low battery voltage
+ * Buzzer intermittent signal - timeout 30s when the glow plug is connected
+ *  or 5.5min when the glow plug is turned off
  *
  */
 
