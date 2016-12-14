@@ -1,5 +1,4 @@
-# GlowStarter
- RC Glow Plug Igniter
+# RC Glow Plug Igniter
 
 - Blue LED on - the output voltage in the range
 - Blue LED blinks - glow plug connected
